@@ -1,3 +1,7 @@
+* Clone esse repositorio
+
+* Suba o Jenkins com o docker compose
+
 * Configure o container do Jenkins com a chave .pem da Aws:
 <br>mkdir -p /var/jenkins_home/chaves/
 <br>cd /var/jenkins_home/chaves/
