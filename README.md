@@ -5,3 +5,5 @@
 <br>chmod 400 sua_chave.pem
 
 * Configure o Jenkis para receber o arquivo Jenkinsfile na pipeline.
+* Pipeline rodando com sucesso:
+<img src="jenkins_k8s_rancher_aws.png" alt="Pipeline2"/>
